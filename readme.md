@@ -32,3 +32,9 @@ If you want to run Vinny on your own machine:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/vinny.git](https://github.com/YOUR_USERNAME/vinny.git)
    cd vinny
+
+   pip install -r requirements.txt
+
+   python app.py
+
+   Visit http://127.0.0.1:5000 in your browser.
